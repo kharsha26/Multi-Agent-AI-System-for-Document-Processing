@@ -28,6 +28,30 @@
 
 ## Installation
 
+├── README.md
+├──web_interface.py
+├── requirements.txt
+├── main.py
+├── agents/
+│   ├── classifier_agent.py
+│   ├── email_agent.py
+│   ├── json_agent.py
+│   ├── base_agent.py
+├── memory/
+│   ├── shared_memory.py
+├── utils/
+│   ├── file_utils.py
+│   ├── email_parser.py
+│   ├── pdf_parser.py
+├── sample_inputs/
+│   ├── example_invoice.pdf
+│   ├── example_rfq.json
+│   ├── sample_email.eml
+├── tests/
+│   ├── test_classifier.py
+│   ├── test_email_agent.py
+│   ├── test_json_agent.py               
+
 ```bash
 # Create virtual environment
 python -m venv .venv
