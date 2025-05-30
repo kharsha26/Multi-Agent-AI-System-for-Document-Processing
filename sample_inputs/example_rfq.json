@@ -1,0 +1,20 @@
+{
+  "rfq_number": "RFQ-2023-0456",
+  "request_date": "2023-11-15",
+  "items": [
+    {
+      "item_code": "A-100",
+      "description": "Stainless Steel Bolts",
+      "quantity": 500,
+      "specifications": "Grade 304, 1/4 inch"
+    },
+    {
+      "item_code": "B-200",
+      "description": "Aluminum Brackets",
+      "quantity": 200,
+      "specifications": "2x4 inches, anodized"
+    }
+  ],
+  "delivery_date": "2023-12-10",
+  "special_requirements": "ISO 9001 certified supplier preferred"
+}
